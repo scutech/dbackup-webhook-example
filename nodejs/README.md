@@ -2,5 +2,12 @@
 
 ## Files
 
-index.js
-package.json
+* index.js
+* package.json
+
+## Usage
+
+```
+npm install
+node index.js
+```
